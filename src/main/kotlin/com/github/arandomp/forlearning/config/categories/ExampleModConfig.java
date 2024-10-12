@@ -1,6 +1,6 @@
-package com.example.config.categories;
+package com.github.arandomp.forlearning.config.categories;
 
-import com.example.ExampleMod;
+import com.github.arandomp.forlearning.ExampleMod;
 import com.google.gson.annotations.Expose;
 import io.github.moulberry.moulconfig.Config;
 import io.github.moulberry.moulconfig.annotations.Category;
